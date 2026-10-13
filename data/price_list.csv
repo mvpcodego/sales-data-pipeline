@@ -1,0 +1,247 @@
+sku;name;price
+HU-AURIO-S1-9;"Aurio S1 9""";26890
+HU-AURIO-S1-10;"Aurio S1 10""";21250
+HU-AURIO-S1-101;"Aurio S1 10.1""";25610
+HU-AURIO-S1-123;"Aurio S1 12.3""";23520
+HU-AURIO-S3-9;"Aurio S3 9""";32480
+HU-AURIO-S3-10;"Aurio S3 10""";32390
+HU-AURIO-S3-101;"Aurio S3 10.1""";33550
+HU-AURIO-S5-9;"Aurio S5 9""";35210
+HU-AURIO-S5-10;"Aurio S5 10""";35450
+HU-AURIO-S5-101;"Aurio S5 10.1""";33260
+HU-AURIO-S7-PRO-9;"Aurio S7 Pro 9""";40680
+HU-AURIO-S7-PRO-10;"Aurio S7 Pro 10""";39830
+HU-AURIO-S7-PRO-101;"Aurio S7 Pro 10.1""";39620
+HU-AURIO-S7-PRO-123;"Aurio S7 Pro 12.3""";39890
+HU-NORDVOX-N2-9;"Nordvox N2 9""";22830
+HU-NORDVOX-N2-10;"Nordvox N2 10""";26190
+HU-NORDVOX-N4-9;"Nordvox N4 9""";30860
+HU-NORDVOX-N4-10;"Nordvox N4 10""";32960
+HU-NORDVOX-N4-101;"Nordvox N4 10.1""";36280
+HU-NORDVOX-N4-123;"Nordvox N4 12.3""";31880
+HU-NORDVOX-N6-MAX-9;"Nordvox N6 Max 9""";41540
+HU-NORDVOX-N6-MAX-10;"Nordvox N6 Max 10""";41580
+HU-NORDVOX-N6-MAX-101;"Nordvox N6 Max 10.1""";42750
+HU-VERTEK-V3-9;"Vertek V3 9""";31460
+HU-VERTEK-V3-10;"Vertek V3 10""";33800
+HU-VERTEK-V3-101;"Vertek V3 10.1""";33180
+HU-VERTEK-V8-9;"Vertek V8 9""";36550
+HU-VERTEK-V8-10;"Vertek V8 10""";37700
+HU-VERTEK-V8-101;"Vertek V8 10.1""";44200
+HU-VERTEK-V8-123;"Vertek V8 12.3""";45150
+FR-LADA-VESTA-123;"Переходная рамка Lada Vesta 12.3""";2730
+WR-LADA-VESTA;Комплект проводки Lada Vesta;1350
+SK-LADA-VESTA;Стартовый набор Lada Vesta;1910
+FR-LADA-GRANTA-101;"Переходная рамка Lada Granta 10.1""";5380
+WR-LADA-GRANTA;Комплект проводки Lada Granta;3430
+SK-LADA-GRANTA;Стартовый набор Lada Granta;1210
+FR-LADA-XRAY-9;"Переходная рамка Lada XRAY 9""";4210
+WR-LADA-XRAY;Комплект проводки Lada XRAY;4080
+SK-LADA-XRAY;Стартовый набор Lada XRAY;1480
+FR-KIA-RIO-123;"Переходная рамка Kia Rio 12.3""";2330
+WR-KIA-RIO;Комплект проводки Kia Rio;3610
+SK-KIA-RIO;Стартовый набор Kia Rio;2320
+FR-KIA-SPORTAGE-10;"Переходная рамка Kia Sportage 10""";5830
+WR-KIA-SPORTAGE;Комплект проводки Kia Sportage;2610
+SK-KIA-SPORTAGE;Стартовый набор Kia Sportage;840
+FR-KIA-CEED-101;"Переходная рамка Kia Ceed 10.1""";2390
+WR-KIA-CEED;Комплект проводки Kia Ceed;2060
+SK-KIA-CEED;Стартовый набор Kia Ceed;1930
+FR-HYUNDAI-SOLARIS-9;"Переходная рамка Hyundai Solaris 9""";6030
+WR-HYUNDAI-SOLARIS;Комплект проводки Hyundai Solaris;2450
+SK-HYUNDAI-SOLARIS;Стартовый набор Hyundai Solaris;980
+FR-HYUNDAI-TUCSON-9;"Переходная рамка Hyundai Tucson 9""";3340
+WR-HYUNDAI-TUCSON;Комплект проводки Hyundai Tucson;2790
+SK-HYUNDAI-TUCSON;Стартовый набор Hyundai Tucson;1180
+FR-HYUNDAI-CRETA-9;"Переходная рамка Hyundai Creta 9""";4400
+WR-HYUNDAI-CRETA;Комплект проводки Hyundai Creta;2140
+SK-HYUNDAI-CRETA;Стартовый набор Hyundai Creta;1520
+FR-TOYOTA-CAMRY-10;"Переходная рамка Toyota Camry 10""";4250
+WR-TOYOTA-CAMRY;Комплект проводки Toyota Camry;1700
+SK-TOYOTA-CAMRY;Стартовый набор Toyota Camry;1770
+FR-TOYOTA-RAV4-123;"Переходная рамка Toyota RAV4 12.3""";6900
+WR-TOYOTA-RAV4;Комплект проводки Toyota RAV4;4090
+SK-TOYOTA-RAV4;Стартовый набор Toyota RAV4;1110
+FR-TOYOTA-COROLLA-101;"Переходная рамка Toyota Corolla 10.1""";2260
+WR-TOYOTA-COROLLA;Комплект проводки Toyota Corolla;1370
+SK-TOYOTA-COROLLA;Стартовый набор Toyota Corolla;2090
+FR-VOLKSWAGEN-POLO-123;"Переходная рамка Volkswagen Polo 12.3""";5450
+WR-VOLKSWAGEN-POLO;Комплект проводки Volkswagen Polo;3700
+SK-VOLKSWAGEN-POLO;Стартовый набор Volkswagen Polo;2230
+FR-VOLKSWAGEN-TIGUAN-9;"Переходная рамка Volkswagen Tiguan 9""";5580
+WR-VOLKSWAGEN-TIGUAN;Комплект проводки Volkswagen Tiguan;2860
+SK-VOLKSWAGEN-TIGUAN;Стартовый набор Volkswagen Tiguan;2460
+FR-SKODA-OCTAVIA-9;"Переходная рамка Skoda Octavia 9""";3070
+WR-SKODA-OCTAVIA;Комплект проводки Skoda Octavia;2810
+SK-SKODA-OCTAVIA;Стартовый набор Skoda Octavia;2150
+FR-SKODA-RAPID-101;"Переходная рамка Skoda Rapid 10.1""";2650
+WR-SKODA-RAPID;Комплект проводки Skoda Rapid;4160
+SK-SKODA-RAPID;Стартовый набор Skoda Rapid;1790
+FR-RENAULT-DUSTER-123;"Переходная рамка Renault Duster 12.3""";2410
+WR-RENAULT-DUSTER;Комплект проводки Renault Duster;3170
+SK-RENAULT-DUSTER;Стартовый набор Renault Duster;2320
+FR-RENAULT-LOGAN-101;"Переходная рамка Renault Logan 10.1""";5000
+WR-RENAULT-LOGAN;Комплект проводки Renault Logan;4160
+SK-RENAULT-LOGAN;Стартовый набор Renault Logan;1600
+FR-NISSAN-QASHQAI-123;"Переходная рамка Nissan Qashqai 12.3""";5210
+WR-NISSAN-QASHQAI;Комплект проводки Nissan Qashqai;2960
+SK-NISSAN-QASHQAI;Стартовый набор Nissan Qashqai;1730
+FR-NISSAN-X-TRAIL-123;"Переходная рамка Nissan X-Trail 12.3""";6410
+WR-NISSAN-X-TRAIL;Комплект проводки Nissan X-Trail;2900
+SK-NISSAN-X-TRAIL;Стартовый набор Nissan X-Trail;2130
+FR-MAZDA-CX-5-10;"Переходная рамка Mazda CX-5 10""";4130
+WR-MAZDA-CX-5;Комплект проводки Mazda CX-5;3780
+SK-MAZDA-CX-5;Стартовый набор Mazda CX-5;1260
+FR-MAZDA-6-101;"Переходная рамка Mazda 6 10.1""";5430
+WR-MAZDA-6;Комплект проводки Mazda 6;1210
+SK-MAZDA-6;Стартовый набор Mazda 6;1080
+FR-CHERY-TIGGO-7-PRO-10;"Переходная рамка Chery Tiggo 7 Pro 10""";3240
+WR-CHERY-TIGGO-7-PRO;Комплект проводки Chery Tiggo 7 Pro;2110
+SK-CHERY-TIGGO-7-PRO;Стартовый набор Chery Tiggo 7 Pro;2800
+FR-CHERY-TIGGO-8-PRO-10;"Переходная рамка Chery Tiggo 8 Pro 10""";2330
+WR-CHERY-TIGGO-8-PRO;Комплект проводки Chery Tiggo 8 Pro;2950
+SK-CHERY-TIGGO-8-PRO;Стартовый набор Chery Tiggo 8 Pro;2070
+FR-GEELY-COOLRAY-101;"Переходная рамка Geely Coolray 10.1""";3500
+WR-GEELY-COOLRAY;Комплект проводки Geely Coolray;3420
+SK-GEELY-COOLRAY;Стартовый набор Geely Coolray;2120
+FR-GEELY-ATLAS-123;"Переходная рамка Geely Atlas 12.3""";6340
+WR-GEELY-ATLAS;Комплект проводки Geely Atlas;1970
+SK-GEELY-ATLAS;Стартовый набор Geely Atlas;1980
+FR-GEELY-MONJARO-123;"Переходная рамка Geely Monjaro 12.3""";4860
+WR-GEELY-MONJARO;Комплект проводки Geely Monjaro;2150
+SK-GEELY-MONJARO;Стартовый набор Geely Monjaro;2010
+FR-HAVAL-JOLION-9;"Переходная рамка Haval Jolion 9""";5100
+WR-HAVAL-JOLION;Комплект проводки Haval Jolion;4100
+SK-HAVAL-JOLION;Стартовый набор Haval Jolion;2470
+FR-HAVAL-F7-123;"Переходная рамка Haval F7 12.3""";4160
+WR-HAVAL-F7;Комплект проводки Haval F7;3500
+SK-HAVAL-F7;Стартовый набор Haval F7;1550
+FR-CHANGAN-CS35-PLUS-9;"Переходная рамка Changan CS35 Plus 9""";4400
+WR-CHANGAN-CS35-PLUS;Комплект проводки Changan CS35 Plus;3050
+SK-CHANGAN-CS35-PLUS;Стартовый набор Changan CS35 Plus;1420
+FR-CHANGAN-UNI-K-123;"Переходная рамка Changan UNI-K 12.3""";6360
+WR-CHANGAN-UNI-K;Комплект проводки Changan UNI-K;1710
+SK-CHANGAN-UNI-K;Стартовый набор Changan UNI-K;1360
+FR-OMODA-C5-9;"Переходная рамка Omoda C5 9""";4720
+WR-OMODA-C5;Комплект проводки Omoda C5;1290
+SK-OMODA-C5;Стартовый набор Omoda C5;1460
+FR-JETOUR-X70-PLUS-101;"Переходная рамка Jetour X70 Plus 10.1""";4890
+WR-JETOUR-X70-PLUS;Комплект проводки Jetour X70 Plus;2560
+SK-JETOUR-X70-PLUS;Стартовый набор Jetour X70 Plus;2230
+FR-FORD-FOCUS-123;"Переходная рамка Ford Focus 12.3""";5690
+WR-FORD-FOCUS;Комплект проводки Ford Focus;2620
+SK-FORD-FOCUS;Стартовый набор Ford Focus;1020
+FR-FORD-KUGA-101;"Переходная рамка Ford Kuga 10.1""";5510
+WR-FORD-KUGA;Комплект проводки Ford Kuga;2890
+SK-FORD-KUGA;Стартовый набор Ford Kuga;1770
+FR-MITSUBISHI-OUTLANDER-9;"Переходная рамка Mitsubishi Outlander 9""";3690
+WR-MITSUBISHI-OUTLANDER;Комплект проводки Mitsubishi Outlander;2610
+SK-MITSUBISHI-OUTLANDER;Стартовый набор Mitsubishi Outlander;1770
+FR-MITSUBISHI-ASX-123;"Переходная рамка Mitsubishi ASX 12.3""";4590
+WR-MITSUBISHI-ASX;Комплект проводки Mitsubishi ASX;2630
+SK-MITSUBISHI-ASX;Стартовый набор Mitsubishi ASX;2390
+FR-HONDA-CR-V-10;"Переходная рамка Honda CR-V 10""";4440
+WR-HONDA-CR-V;Комплект проводки Honda CR-V;3270
+SK-HONDA-CR-V;Стартовый набор Honda CR-V;1060
+FR-SUBARU-FORESTER-9;"Переходная рамка Subaru Forester 9""";3260
+WR-SUBARU-FORESTER;Комплект проводки Subaru Forester;3820
+SK-SUBARU-FORESTER;Стартовый набор Subaru Forester;1210
+FR-SUZUKI-VITARA-9;"Переходная рамка Suzuki Vitara 9""";6320
+WR-SUZUKI-VITARA;Комплект проводки Suzuki Vitara;2670
+SK-SUZUKI-VITARA;Стартовый набор Suzuki Vitara;2040
+EX-CAM-001;Камера заднего вида AHD 1080p;3350
+EX-CAM-002;Камера кругового обзора 360°;15310
+EX-ADA-003;Адаптер рулевого управления CAN;2430
+EX-SOU-004;Шумоизоляция дверей, комплект;7570
+EX-ACC-005;Микрофон выносной;1130
+EX-ACC-006;Видеорегистратор для магнитолы;3540
+HU-AURIO-S1-7;"Aurio S1 7"" 2DIN";13540
+HU-NORDVOX-N4-7;"Nordvox N4 7"" 2DIN";21200
+HU-NORDVOX-N6-MAX-13;"Nordvox N6 Max 13""";45350
+HU-VERTEK-V8-13;"Vertek V8 13""";55310
+CAM-001;Камера заднего вида CCD с ночным режимом;3350
+CAM-002;Камера заднего вида AHD 720p;2550
+CAM-003;Камера переднего вида 170°;3730
+CAM-004;Камера бокового обзора под зеркало;3090
+CAM-005;Камера в подсветку номера;3170
+CAM-006;Зеркало заднего вида с камерой и экраном;7540
+CAM-007;Комплект камер 360° 3D, 1080p;21560
+ADA-008;Адаптер штатной камеры RCA;1850
+ADA-009;Антенный переходник ISO — DIN;720
+ADA-010;USB-удлинитель в штатное место;1320
+ADA-011;CAN-декодер климата и парктроников;4170
+ADA-012;Модуль сохранения штатного усилителя;4750
+ACC-013;USB-хаб на 3 порта для магнитолы;1990
+ACC-014;Датчики давления в шинах для магнитолы;4910
+ACC-015;4G-модем с выносной антенной;3460
+ACC-016;Видеорегистратор 2K с камерой салона;5890
+ACC-017;Микрофон с шумоподавлением на клипсе;1500
+ACC-018;Беспроводные кнопки на руль;1980
+ACC-019;Адаптер беспроводного CarPlay и Android Auto;5330
+SND-020;Виброизоляция 2 мм, лист 50×70 см;1180
+SND-021;Виброизоляция 3 мм, лист 50×70 см;950
+SND-022;Шумопоглотитель 10 мм, лист 100×75 см;910
+SND-023;Шумоизоляция арок, комплект на 4 арки;10770
+SND-024;Шумоизоляция пола и багажника, комплект;14690
+SND-025;Прикаточный валик металлический;840
+DCL-026;Доводчик двери Softlock SL-1;9060
+DCL-027;Доводчик двери Softlock SL-2, усиленный;12910
+DCL-028;Доводчик двери Softlock SL-3 для внедорожников;13530
+AUD-029;Коаксиальная акустика Sonora C165, 16,5 см;5990
+AUD-030;Коаксиальная акустика Sonora C130, 13 см;4760
+AUD-031;"Овальная акустика Sonora C690, 6×9""";7900
+AUD-032;Компонентная акустика Sonora K165, 16,5 см;12250
+AUD-033;Компонентная акустика Sonora K200 Pro, 20 см;18620
+AUD-034;Усилитель Basslane A4.80, 4 канала;14410
+AUD-035;Моноблок Basslane A1.500;17540
+AUD-036;Активный сабвуфер Basslane S10 под сиденье;16400
+AUD-037;Сабвуфер Basslane S12 в корпусе;20460
+AUD-038;Аудиопроцессор Sonora DSP-8, 8 каналов;16710
+TUN-039;Контурная подсветка салона, 64 цвета, 6 зон;8860
+TUN-040;Контурная подсветка салона, 18 зон, управление с магнитолы;18650
+TUN-041;Подсветка ног RGB, 4 модуля;3120
+TUN-042;Светодиодные лампы H7, пара;3850
+TUN-043;Светодиодные лампы H4, пара;4010
+TUN-044;Светодиодные лампы H11 в ПТФ, пара;2750
+TUN-045;Накладки на педали, алюминий;2390
+TUN-046;Пороги с подсветкой, пара;4960
+ALR-047;Сигнализация Guardix A9 с автозапуском, GSM и GPS;24900
+ALR-048;Сигнализация Guardix A6 с автозапуском;14870
+ALR-049;Сигнализация Guardix A4;10300
+ALR-050;GSM-модуль Guardix M3 к сигнализации;6680
+ALR-051;GPS-трекер Guardix T1;7220
+ALR-052;Иммобилайзер Guardix I2 с меткой;9410
+ALR-053;Иммобилайзер Guardix I5 с бесконтактным отключением;13600
+ALR-054;Модуль обхода штатного иммобилайзера;4540
+DCL-LADA-VESTA;Доводчики дверей Lada Vesta, 4 двери;46040
+CAM-OEM-LADA-GRANTA;Штатная камера заднего вида Lada Granta;5830
+DCL-KIA-RIO;Доводчики дверей Kia Rio, 4 двери;41970
+TUN-TRUNK-KIA-SPORTAGE;Электропривод багажника Kia Sportage;38500
+CAM-OEM-KIA-CEED;Штатная камера заднего вида Kia Ceed;4060
+DCL-HYUNDAI-SOLARIS;Доводчики дверей Hyundai Solaris, 4 двери;38990
+TUN-TRUNK-HYUNDAI-CRETA;Электропривод багажника Hyundai Creta;29240
+DCL-TOYOTA-CAMRY;Доводчики дверей Toyota Camry, 4 двери;41010
+CAM-OEM-TOYOTA-CAMRY;Штатная камера заднего вида Toyota Camry;5440
+DCL-VOLKSWAGEN-POLO;Доводчики дверей Volkswagen Polo, 4 двери;44390
+CAM-OEM-VOLKSWAGEN-TIGUAN;Штатная камера заднего вида Volkswagen Tiguan;3900
+DCL-SKODA-RAPID;Доводчики дверей Skoda Rapid, 4 двери;42360
+TUN-TRUNK-RENAULT-DUSTER;Электропривод багажника Renault Duster;37620
+CAM-OEM-RENAULT-LOGAN;Штатная камера заднего вида Renault Logan;5920
+DCL-NISSAN-QASHQAI;Доводчики дверей Nissan Qashqai, 4 двери;40830
+TUN-TRUNK-MAZDA-CX-5;Электропривод багажника Mazda CX-5;34250
+DCL-MAZDA-6;Доводчики дверей Mazda 6, 4 двери;39920
+CAM-OEM-MAZDA-6;Штатная камера заднего вида Mazda 6;4560
+DCL-GEELY-COOLRAY;Доводчики дверей Geely Coolray, 4 двери;42940
+TUN-TRUNK-GEELY-COOLRAY;Электропривод багажника Geely Coolray;35360
+CAM-OEM-GEELY-ATLAS;Штатная камера заднего вида Geely Atlas;4600
+DCL-HAVAL-JOLION;Доводчики дверей Haval Jolion, 4 двери;39540
+TUN-TRUNK-HAVAL-F7;Электропривод багажника Haval F7;34210
+CAM-OEM-CHANGAN-CS35-PLUS;Штатная камера заднего вида Changan CS35 Plus;5660
+DCL-CHANGAN-UNI-K;Доводчики дверей Changan UNI-K, 4 двери;43140
+TUN-TRUNK-JETOUR-X70-PLUS;Электропривод багажника Jetour X70 Plus;39130
+DCL-FORD-FOCUS;Доводчики дверей Ford Focus, 4 двери;42350
+CAM-OEM-FORD-FOCUS;Штатная камера заднего вида Ford Focus;6080
+DCL-MITSUBISHI-ASX;Доводчики дверей Mitsubishi ASX, 4 двери;39640
+TUN-TRUNK-MITSUBISHI-ASX;Электропривод багажника Mitsubishi ASX;37860
+CAM-OEM-HONDA-CR-V;Штатная камера заднего вида Honda CR-V;3910
+DCL-SUZUKI-VITARA;Доводчики дверей Suzuki Vitara, 4 двери;42310
